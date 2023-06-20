@@ -1,0 +1,11 @@
+.Home > .messages {
+	border: 1px solid;
+    height: 300px;
+    overflow: auto;
+    text-align: left;
+    padding: 10px;
+}
+
+.Home > .messages > p {
+    margin: 5px;
+}
